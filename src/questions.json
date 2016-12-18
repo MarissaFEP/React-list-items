@@ -1,0 +1,15 @@
+[{
+  "id": "Q1",
+  "decription": "The content of question one ...",
+  "oneOf": [
+    {"id": 1, "content": "The first optin..."},
+    {"id": 2, "content": "The second option..."}
+  ]
+}, {
+  "id": "Q2",
+  "decription": "The content of question two ...",
+  "anyOf": [
+    {"id": 1, "content": "The first optin..."},
+    {"id": 2, "content": "The second option..."}
+  ]
+}]
